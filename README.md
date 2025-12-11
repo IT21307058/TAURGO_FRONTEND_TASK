@@ -47,7 +47,3 @@ npm run build
 
 # Deploy to Vercel/Netlify
 ```
-
-## License
-
-MIT License
