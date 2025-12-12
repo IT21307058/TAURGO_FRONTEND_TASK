@@ -19,9 +19,6 @@ A beautiful, feature-rich todo list application built with React and Tailwind CS
 # Clone the repository
 git clone [https://github.com/yourusername/todo-app.git](https://github.com/IT21307058/TAURGO_FRONTEND_TASK)
 
-# Navigate to project directory
-cd todo-app
-
 # Install dependencies
 npm install
 
